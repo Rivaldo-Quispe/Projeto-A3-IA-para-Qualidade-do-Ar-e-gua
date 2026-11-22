@@ -10,7 +10,9 @@ As medições costumam ser pontuais, concentradas em poucos locais e difíceis d
 - Utilizar Inteligencia Artificial.
 ## Integrantes da Equipe
 - [Rivaldo Quispe Mendoza] - RA: 12526161278
-- [Richard Dias Guia] - RA: 1252613390 
+- [Richard Dias Guia] - RA: 1252613390
+## Link para o MVP (VSCode)
+https://share.google/aimode/Ln2Pqr2bQjgjZy47V 
 ## Tecnologias Planejadas
 - Machine Learning
 - SEnsores loT
