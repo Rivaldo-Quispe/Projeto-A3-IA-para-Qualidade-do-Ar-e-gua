@@ -15,7 +15,7 @@ As medições costumam ser pontuais, concentradas em poucos locais e difíceis d
 https://share.google/aimode/Ln2Pqr2bQjgjZy47V 
 ## Tecnologias Planejadas
 - Machine Learning
-- SEnsores loT
+- Sensores loT
 - **Inteligência Artificial:** API de visão computacional (simulada)
 ## Status do Projeto
 - [x] Definição do tema e escopo
